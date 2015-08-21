@@ -11,5 +11,6 @@ Phase1:
 				1.1.1.1 Each Trip(id, name) object encapsulates(stores) the coresponding features computed for each trip. The features can be retrieved and
 					analized as needed
 
+To run the code type: python MainDriver.py <path to your Kaggle drivers>
 	
 Phase2: Use the Nervana Systems' Neon ML to test/refine the features generated in 1 above
