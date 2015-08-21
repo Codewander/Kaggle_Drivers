@@ -1,5 +1,5 @@
 __author__= 'TraianMorar'
-''' DriversManager - maintains the list of drivers and provides the
+''' DriverManager - maintains the list of drivers and provides the
 	operations to add, get, display the driver '''
 
 class DriverManager:
