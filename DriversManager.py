@@ -2,7 +2,7 @@ __author__= 'TraianMorar'
 ''' DriversManager - maintains the list of drivers and provides the
 	operations to add, get, display the driver '''
 
-class DriversManager:
+class DriverManager:
 	m_DriversList = [];
     
 	def __init__(self):
