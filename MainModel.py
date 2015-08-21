@@ -6,7 +6,7 @@ from Driver import *
 from Trip import *
 from Utils import *
 
-driverMgr = DriversManager()
+driverMgr = DriverManager()
 featureType = [	'tripDist'
 				,'tripTime'
 				,'maxDist'
